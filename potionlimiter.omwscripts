@@ -1,0 +1,2 @@
+GLOBAL: scripts/Boyos/potionlimiter/potiondetector.lua
+PLAYER: scripts/Boyos/potionlimiter/potionnotifier.lua
